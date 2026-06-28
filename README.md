@@ -1,6 +1,6 @@
 # Transfer Learning for Satellite Land Cover Classification: A Domain-Shift Case Study in Indian Forest Monitoring
 
-**Author:** [Your Name]
+**Author:** Harin 
 **Date:** June 2026
 
 ## Overview
