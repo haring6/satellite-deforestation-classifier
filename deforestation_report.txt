@@ -1,0 +1,8 @@
+Deforestation Detection Report
+Comparing 2018 vs 2025
+
+Grid size: 14 x 18 = 252 patches
+Patches classified as Forest in 2018: 0
+No longer Forest in 2025: 0 (0.0%)
+
+What lost-forest patches became:
